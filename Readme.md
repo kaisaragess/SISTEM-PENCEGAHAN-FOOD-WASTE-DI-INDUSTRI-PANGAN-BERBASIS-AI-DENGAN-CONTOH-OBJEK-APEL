@@ -35,7 +35,7 @@ Aplikasi ini dipisahkan menjadi *client-side* dan *server-side* untuk memastikan
 
 ### Opsi 1: Instalasi Langsung (APK)
 Bagi pengguna yang hanya ingin mencoba aplikasi, silakan unduh versi *compiled* terbaru:
-👉 **LinkDrive**
+👉 **[LinkDrive](https://drive.google.com/file/d/1anGEXhILSlDFgZU92uWZCfNFmD5XVSzs/view?usp=sharing)**
 
 ### Opsi 2: Build dari Source Code (Untuk Developer)
 
