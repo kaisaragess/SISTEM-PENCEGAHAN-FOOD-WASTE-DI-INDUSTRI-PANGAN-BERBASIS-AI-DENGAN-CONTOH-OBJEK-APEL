@@ -41,4 +41,5 @@ Bagi pengguna yang hanya ingin mencoba aplikasi, silakan unduh versi *compiled* 
 
 **1. Clone Repositori:**
 ```bash
-git clone 
+git clone https://github.com/username/SISTEM-PENCEGAHAN-FOOD-WASTE-DI-INDUSTRI-PANGAN-BERBASIS-AI-DENGAN-CONTOH-OBJEK-APEL.git
+```
